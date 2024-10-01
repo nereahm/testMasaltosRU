@@ -47,7 +47,7 @@ function App() {
 
     // Muestra el resultado en el pop-up
     document.getElementById("resultText").textContent =
-      "Tu estilo es: " + result;
+      "Твой стиль: " + result;
     document.getElementById("resultModal").style.display = "flex";
   };
 
